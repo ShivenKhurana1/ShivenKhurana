@@ -1,11 +1,11 @@
 {
   "name": "v4",
-  "description": "Personal Website V4",
+  "description": "Personal Website V1",
   "version": "1.0.0",
-  "author": "Brittany Chiang <brittany.chiang@gmail.com>",
+  "author": "Shiven Khurana <shivenbk@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/bchiang7/v4"
+    "url": "https://github.com/ShivenKhurana1/ShivenKhurana/"
   },
   "keywords": [
     "gatsby"
