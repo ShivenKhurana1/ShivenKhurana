@@ -4,7 +4,7 @@ module.exports = {
   siteMetadata: {
     title: 'Shiven Khurana',
     description:
-      'Brittany Chiang is a Middle Schooler who specializes in Mathematics, Competetive Programming, and AI',
+      'Shiven Khurana is a Middle Schooler who specializes in Mathematics, Competetive Programming, and AI',
     siteUrl: 'https://shiven-khurana.netlify.app', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@bchiang7',
@@ -20,8 +20,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: 'Brittany Chiang',
-        short_name: 'Brittany Chiang',
+        name: 'Shiven Khurana',
+        short_name: 'Shiven Khurana',
         start_url: '/',
         background_color: config.colors.darkNavy,
         theme_color: config.colors.navy,
