@@ -125,7 +125,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['JavaScript (ES6+)', 'TypeScript', 'React', 'Eleventy', 'Node.js', 'WordPress'];
+  const skills = ['Python', 'Numpy', 'Tensorflow', 'Pytorch', 'OpenCV', 'Java', 'C++', 'Matlab' ,'R', 'Kotlin', 'Latex', 'HTML', 'CSS', 'JavaScript', 'Go', 'Assembly Language', 'Rust', 'PHP', 'SQL', 'Dart', 'Swift'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -135,30 +135,18 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Brittany and I enjoy creating things that live on the internet. My
-              interest in web development started back in 2012 when I decided to try editing custom
-              Tumblr themes — turns out hacking together a custom reblog button taught me a lot
-              about HTML &amp; CSS!
+              Hello! My name is Shiven and I enjoy creating things that live on the internet as well as competing competetively :D. My
+              interest in Competetive Programming started back in 2020 when I decided to try solving USACO problems at random — turns out hacking USACO solutions taught me a lot
+              about Java &amp; C++!
             </p>
 
             <p>
-              Fast-forward to today, and I’ve had the privilege of working at{' '}
-              <a href="https://us.mullenlowe.com/">an advertising agency</a>,{' '}
-              <a href="https://starry.com/">a start-up</a>,{' '}
-              <a href="https://www.apple.com/">a huge corporation</a>, and{' '}
-              <a href="https://scout.camd.northeastern.edu/">a student-led design studio</a>. My
-              main focus these days is building accessible, inclusive products and digital
-              experiences at <a href="https://upstatement.com/">Upstatement</a> for a variety of
-              clients.
-            </p>
-
-            <p>
-              I also recently{' '}
-              <a href="https://www.newline.co/courses/build-a-spotify-connected-app">
-                launched a course
-              </a>{' '}
-              that covers everything you need to build a web app with the Spotify API using Node
-              &amp; React.
+              Fast-forward to today, and I’ve had the privilege of competing at several competitions some not even comp sci related!
+              <a href="http://www.sciencemontgomery.org/"> A Science Competition</a>,{' '}
+              <a href="https://https://www.teamscode.org/">A Student Led Competetive Programming Competition</a>,{' '}
+              <a href="https://www.mathcounts.org/">A Huge Math Competition</a>, and{' '}
+              <a href="https://maa.org/student-programs/amc/">Another Huge Math Competition!</a>. My
+              main focus these days is building accessible, medical products, with the help of Artificial Intelligence for those who require it.
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>
