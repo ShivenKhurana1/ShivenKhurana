@@ -1,11 +1,11 @@
 ---
-date: '2017-04-01'
-title: 'Developer'
-company: 'Scout Studio'
-location: 'Northeastern University'
-range: 'Spring 2016 & 2017'
-url: 'https://web.northeastern.edu/scout/'
+date: '2024-3-16'
+title: 'Mathcounts Maryland State Competition'
+company: 'Mathcounts'
+location: 'Baltimore MD'
+range: 'Single Day Event'
+url: 'https://www.mathcounts.org/node/277469'
 ---
 
-- Collaborated with other student designers and engineers on pro-bono projects to create new brands, design systems, and websites for organizations in the community
-- Built and delivered technical solutions according to stakeholder business requirements
+- Participated in the 2024 Maryland State Mathcounts Competition
+- Placed 27 among the whole state
