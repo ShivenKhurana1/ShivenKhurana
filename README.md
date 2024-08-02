@@ -1,8 +1,8 @@
 <div align="center">
-  <img alt="Logo" src="https://raw.githubusercontent.com/bchiang7/v4/main/src/images/logo.png" width="100" />
+  <img alt="Logo" src="https://raw.githubusercontent.com/ShivenKhurana1/ShivenKhurana/main/src/images/logo.png" width="100" />
 </div>
 
-![demo](https://raw.githubusercontent.com/bchiang7/v4/main/src/images/demo.png)
+![demo](https://raw.githubusercontent.com/ShivenKhurana1/ShivenKhurana/main/src/images/demo.png)
 
 ## 🚨 Forking this repo (please read!)
 
