@@ -1,12 +1,12 @@
 ---
-date: '2016-12-21'
-title: 'Software Engineer Co-op'
-company: 'Starry'
-location: 'Boston, MA'
-range: 'July - December 2016'
-url: 'https://starry.com/'
+date: '2024-4'
+title: 'MoleDetect: A Convolutional Neural Network Based App for Detecting Skin Moles'
+company: 'ScienceMontgomery'
+location: 'Food and Drug Administration'
+range: 'Single Day Event'
+url: 'http://www.sciencemontgomery.org/'
 ---
 
-- Engineered and improved major features of Starry's customer-facing Android web app using ES6, Handlebars, Backbone, Marionette, and CSS
-- Proposed and implemented scalable solutions to issues identified with cloud services and applications responsible for communicating with the Starry Station internet router
-- Collaborated with designers and other developers to ensure thoughtful and consistent user experiences across Starry’s iOS and Android mobile apps
+- Participated in the 2024 Science Fair
+- Was Awarded 9 Prizes from many different organizations such as: United States Air Force, MRIGlobal, Washington Statistical Society
+- Developed a Web Application to detect skin cancer.
