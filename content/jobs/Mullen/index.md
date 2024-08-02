@@ -1,12 +1,11 @@
 ---
-date: '2015-12-21'
-title: 'Creative Technologist Co-op'
-company: 'MullenLowe'
-location: 'Boston, MA'
-range: 'July - December 2015'
-url: 'https://us.mullenlowe.com/'
+date: '2023-2'
+title: 'Potomac Mathcounts Chapter'
+company: 'Mathcounts'
+location: 'College Park MD'
+range: 'Single Day Event'
+url: 'https://www.mathcounts.org/node/277610'
 ---
 
-- Developed, maintained, and shipped production code for client websites primarily using HTML, CSS, Sass, JavaScript, and jQuery
-- Performed quality assurance tests on various sites to ensure cross-browser compatibility and mobile responsiveness
-- Clients included JetBlue, Lovesac, U.S. Cellular, U.S. Department of Defense, and more
+- Participated in the 2023 Mathcounts Chapter Competition
+- Placed 28th Place among 300+
